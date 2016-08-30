@@ -1255,7 +1255,7 @@
         'name': 'keyword.operator.bitwise.js'
       }
       {
-        'match': '=|:'
+        'match': '='
         'name': 'keyword.operator.assignment.js'
       }
       {
